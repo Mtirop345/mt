@@ -1,0 +1,73 @@
+.hom{
+    background-image: url(mt.jpg);
+    background-size: cover;
+    width: 500px;
+    height: 300px;
+
+}
+
+nav {
+    background-color: #f2eded;
+    padding: 10px;
+    text-align: right; 
+    color: aliceblue;
+   
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-left: 10px; 
+  }
+  
+  nav li a {
+    display: block;
+    padding: 5px 25px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  nav li a:hover {
+    background-color: #ddd;
+  }
+
+.name{
+    color: rgb(218, 110, 32);
+}
+.proffesion{
+    background-color: #333;
+    color: #ddd;
+}
+.proff{
+    color: aquamarine;
+    background-color: #333;
+    
+}
+.tir{
+    color: aliceblue;
+    background-color: #333;
+}
+.welcome{
+  margin-top: 28px;
+  color: rgb(18, 10, 250);
+}
+.portf{
+  color: chocolate;
+
+}
+.logo {
+  background-image: url("edu.jpg");
+  background-size: cover;
+  width: 100px; 
+  height: 100px; 
+ 
+}
+.abou{
+  background-color: bisque;
+}
